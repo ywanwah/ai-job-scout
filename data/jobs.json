@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-24T06:08:52+08:00",
+    "updated_at": "2026-10-25T06:11:45+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-f469c15dea85af6e5b0a525bed06a836",
+      "title": "Data Scientist (AI Analyst)",
+      "company": "ACHIEVE CAREER CONSULTANT PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/design/data-scientist-achieve-career-consultant-f469c15dea85af6e5b0a525bed06a836",
+      "posted": "2026-10-24",
+      "salary": "S$4,000 to S$6,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\" and \"AI\"",
+      "first_seen": "2026-10-25T06:11:45+08:00",
+      "last_seen": "2026-10-25T06:11:45+08:00"
+    },
+    {
+      "id": "mcf-70cef99099e5eed7ac828f88da8eb8ae",
+      "title": "Data Scientist, AI Lab",
+      "company": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-scientist-ai-lab-oversea-chinese-banking-corporation-70cef99099e5eed7ac828f88da8eb8ae",
+      "posted": "2026-10-24",
+      "salary": "S$6,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\" and \"AI\"",
+      "first_seen": "2026-10-25T06:11:45+08:00",
+      "last_seen": "2026-10-25T06:11:45+08:00"
+    },
+    {
+      "id": "mcf-3bf31b932dbeb6413932a3b5debe005b",
+      "title": "HR AI Enablement Lead",
+      "company": "ENGGSOL PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/others/hr-ai-enablement-lead-enggsol-3bf31b932dbeb6413932a3b5debe005b",
+      "posted": "2026-10-24",
+      "salary": "S$14,000 to S$17,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-25T06:11:45+08:00",
+      "last_seen": "2026-10-25T06:11:45+08:00"
+    },
     {
       "id": "mcf-38b96a7df87e6d304419aa322d5a1988",
       "title": "Research Engineer II (Computer Science / Cyber Security / Artificial Intelligence)",
@@ -26,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"Artificial Intelligence\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-095e0204843b55038a6533f11e661f69",
@@ -41,7 +86,7 @@
       "level": "Not stated",
       "why": "title has \"Artificial Intelligence\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-065964839e77471b451c593b39e9275a",
@@ -56,7 +101,7 @@
       "level": "Entry",
       "why": "title has \"Artificial Intelligence\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-d3265cae780d1ef925f985d442afc36f",
@@ -71,7 +116,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-011d248f6352ab0d52c5eb0e348c9946",
@@ -86,7 +131,7 @@
       "level": "Entry",
       "why": "title has \"AI\" and \"Prompt\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-8518315058512961a7aa7e204e79c0e2",
@@ -101,7 +146,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-1ad345313352b8c05bfd317704fb9c6e",
@@ -116,7 +161,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-1edc1c57d68ffb9b27201768998088aa",
@@ -146,7 +191,7 @@
       "level": "Not stated",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-b592046c65c7576a21308db01a018414",
@@ -161,7 +206,7 @@
       "level": "Not stated",
       "why": "title has \"AI\" and \"ML\" and \"Machine Learning\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-e0cdcac01a5993c339304250282c5f2d",
@@ -176,7 +221,7 @@
       "level": "Senior",
       "why": "title has \"Computer Vision\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-47502781f7e28bea075fda06a16df69b",
@@ -191,7 +236,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\" and \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-d486ed35e1c1fac2f56bae27c471198a",
@@ -206,7 +251,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-baa646987e3d02ca2266baf5df79536b",
@@ -221,7 +266,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-f2b60d18966fa6100f53008b535ce316",
@@ -236,7 +281,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-82bdc1bd3456b02a3481e72125b14264",
@@ -251,7 +296,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-1ca86987f33f5eff0dbef4fb79ad4fde",
@@ -266,7 +311,7 @@
       "level": "Not stated",
       "why": "title has \"AI\" and \"Prompt\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-4b84e7c859440940d33f9bda489875a5",
@@ -281,7 +326,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-b2401c45a2744b5abd723314056dd8d0",
@@ -296,7 +341,7 @@
       "level": "Not stated",
       "why": "title has \"GenAI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-09db2c055908db1cb35d4e53f6b8ea1d",
@@ -311,7 +356,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-a52b86ebf3db4ea804bf5fd28df38a89",
@@ -326,7 +371,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-46eebf35d51947360fca02613cfbc249",
@@ -341,7 +386,7 @@
       "level": "Senior",
       "why": "title has \"Digital Transformation\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-ebecf41782baccd83bb940c159b660bf",
@@ -356,7 +401,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-adcacb2bb594f65f01c274bb34b9d76b",
@@ -371,7 +416,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-24T06:08:52+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-a710d056ba0dc6db50f7d7feafbb42d0",
@@ -431,7 +476,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-3773d3a4431f883a449669757a0fa5ac",
@@ -536,7 +581,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-110672d1505f6e31affda0e780e2e932",
@@ -551,7 +596,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-383898b08428aadc749c2c96fb24c14b",
@@ -656,7 +701,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-efb673da0df83c4ab3faca7244ed7c57",
@@ -716,7 +761,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-cc4eedbc2b182ab1fe62fd6bc72c1a8b",
@@ -731,7 +776,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-9453d700d8d9b27b7171c31ffcfcfc2d",
@@ -746,7 +791,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-bf72e94fb2363cecd1766b7e1fdc5475",
@@ -761,7 +806,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-ca1bb99ddc290775b3a4a684323bdd59",
@@ -776,7 +821,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-1ab341c638a3746b46e4847645ea41c1",
@@ -791,7 +836,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-77c69f0edba28c20db45a28cd29427e5",
@@ -806,7 +851,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-23T06:08:45+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "mcf-613f25ec4d20d25c2e66f4db2d56f267",
@@ -1706,7 +1751,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:10:34+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
@@ -1721,7 +1766,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:10:34+08:00",
-      "last_seen": "2026-10-24T06:08:52+08:00"
+      "last_seen": "2026-10-25T06:11:45+08:00"
     }
   ]
 }
