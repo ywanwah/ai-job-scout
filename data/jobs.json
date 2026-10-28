@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-28T06:09:59+08:00",
+    "updated_at": "2026-10-29T06:09:45+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,381 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-ceed12c50e83465fb522afc370de2ec5",
+      "title": "Operations & AI Automation Coordinator",
+      "company": "BREAKFAST AT FLUFFY'S PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/general-management/operations-ai-automation-coordinator-breakfast-fluffys-ceed12c50e83465fb522afc370de2ec5",
+      "posted": "2026-10-29",
+      "salary": "S$2,500 to S$3,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-5ef3ec9f00423ed373675ba7356767b8",
+      "title": "Audit Director, Artificial Intelligence",
+      "company": "STANDARD CHARTERED BANK",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/audit-director-artificial-intelligence-standard-chartered-bank-5ef3ec9f00423ed373675ba7356767b8",
+      "posted": "2026-10-28",
+      "salary": "S$20,000 to S$25,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"Artificial Intelligence\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-abb2aeda759acdd8d30c5f53120d2e71",
+      "title": "Research Engineer II  (Computer Science / Artificial Intelligence / Software Engineering / Information Systems)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/sciences/research-engineer-ii-nanyang-technological-university-abb2aeda759acdd8d30c5f53120d2e71",
+      "posted": "2026-10-28",
+      "salary": "S$4,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Artificial Intelligence\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-3e30ac24155bb52cd12d798aba828593",
+      "title": "Staff Forward Deployed Engineer, GenAI, Google Cloud - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/staff-forward-deployed-engineer-genai-google-cloud-singapore-google-asia-pacific-3e30ac24155bb52cd12d798aba828593",
+      "posted": "2026-10-28",
+      "salary": "S$15,000 to S$30,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-326be84f45c00558bc012635623d8a86",
+      "title": "Physical AI (Edge Intelligence) Research Scientist",
+      "company": "STARRY RECRUITMENT PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/physical-ai-research-scientist-starry-recruitment-326be84f45c00558bc012635623d8a86",
+      "posted": "2026-10-28",
+      "salary": "S$7,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-2711a72e1b89c6c171320da8d9b909d2",
+      "title": "AI Engineer, Agentic AI for Fraud Detection | Contract",
+      "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/ai-engineer-agentic-ai-fraud-detection-contract-nexbridge-recruitment-2711a72e1b89c6c171320da8d9b909d2",
+      "posted": "2026-10-28",
+      "salary": "S$6,000 to S$7,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-41a9f2bcd38ae4da3cf2257f8d21aafb",
+      "title": "ML/AI Engineer - Fraud Analytics Model (Public Sector)",
+      "company": "WEBSPARKS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/mlai-engineer-fraud-analytics-model-websparks-41a9f2bcd38ae4da3cf2257f8d21aafb",
+      "posted": "2026-10-28",
+      "salary": "S$8,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"ML\" and \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-3c3f2d65b51f9f245e40b53369850dd3",
+      "title": "ML/AI Engineer (Public Sector)",
+      "company": "WEBSPARKS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/mlai-engineer-websparks-3c3f2d65b51f9f245e40b53369850dd3",
+      "posted": "2026-10-28",
+      "salary": "S$7,000 to S$11,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"ML\" and \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-8633639317838e2e47084403d44d70a6",
+      "title": "AI ML Engineer",
+      "company": "TECH AALTO PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-ml-engineer-tech-aalto-8633639317838e2e47084403d44d70a6",
+      "posted": "2026-10-28",
+      "salary": "S$7,000 to S$11,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"ML\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-336247d3af6f532b703d8b1552db6c96",
+      "title": "ML/ AI Engineer Senior Consultant",
+      "company": "NTT SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ml-ai-engineer-senior-consultant-ntt-singapore-336247d3af6f532b703d8b1552db6c96",
+      "posted": "2026-10-28",
+      "salary": "S$9,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"ML\" and \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-c9bcbba5856a443841531396fe5fe789",
+      "title": "ML/AI Engineer | Contract | Gov",
+      "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/mlai-engineer-contract-gov-nexbridge-recruitment-c9bcbba5856a443841531396fe5fe789",
+      "posted": "2026-10-28",
+      "salary": "S$5,000 to S$7,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"ML\" and \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-e7ed22009a3d719777dedd9199aa60ee",
+      "title": "AI / ML Engineer (Python & Machine Learning | Immediate Hiring)",
+      "company": "MCI CAREER  SERVICES PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/ai-ml-engineer-mci-career-services-e7ed22009a3d719777dedd9199aa60ee",
+      "posted": "2026-10-28",
+      "salary": "S$3,500 to S$4,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"ML\" and \"Machine Learning\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-a683cc5586b02824b7e313011ebeda13",
+      "title": "Machine Learning Engineer (Payment & Risk) - Global Payment - Singapore",
+      "company": "PIPO RESOURCE (SG) PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-global-payment-singapore-pipo-resource-a683cc5586b02824b7e313011ebeda13",
+      "posted": "2026-10-28",
+      "salary": "S$22,000 to S$25,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-a013dbba0a11cce5cefcd3fdf9eec948",
+      "title": "Machine learning (Global Payment) - 2027 Start (BS/MS) - Graduate (Global Payment) - 2027 Start",
+      "company": "PIPO RESOURCE (SG) PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-2027-start-graduate-2027-start-pipo-resource-a013dbba0a11cce5cefcd3fdf9eec948",
+      "posted": "2026-10-28",
+      "salary": "S$7,666 to S$12,666 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Machine learning\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-057e7d8262cfdd93ec6e10c2a1771b58",
+      "title": "Senior Research Scientist, AI Safety and Security - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-research-scientist-ai-safety-security-singapore-google-asia-pacific-057e7d8262cfdd93ec6e10c2a1771b58",
+      "posted": "2026-10-28",
+      "salary": "S$11,500 to S$23,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-7906131e93e4e30591ad09daf604184d",
+      "title": "Computer Vision Sales Engineer (ASEAN)",
+      "company": "TDK SENSEI PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/professional-services/computer-vision-sales-engineer-tdk-sensei-7906131e93e4e30591ad09daf604184d",
+      "posted": "2026-10-28",
+      "salary": "S$5,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Computer Vision\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-c80839a5edbc15ed8e619dc65318e1db",
+      "title": "Principal Data Scientist (Aerospace)",
+      "company": "RN CARE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/principal-data-scientist-rn-care-c80839a5edbc15ed8e619dc65318e1db",
+      "posted": "2026-10-28",
+      "salary": "S$8,000 to S$11,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-f3553707fe090da81decb7e0cf62b980",
+      "title": "AI Engineer",
+      "company": "PERSOL TECH SERVICES PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-persol-tech-services-f3553707fe090da81decb7e0cf62b980",
+      "posted": "2026-10-28",
+      "salary": "S$8,000 to S$11,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-8e96bf0f53c4d36f9f40ba12cb7e2c3a",
+      "title": "Blockchain Expert - Applied AI & GenAI",
+      "company": "UST GLOBAL (SINGAPORE) PTE. LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/blockchain-expert-applied-ai-genai-ust-global-8e96bf0f53c4d36f9f40ba12cb7e2c3a",
+      "posted": "2026-10-28",
+      "salary": "S$15,000 to S$17,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"GenAI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-af14efb98a3785984b341cc4fdbb8281",
+      "title": "APAC AI Lead Engineer",
+      "company": "KS CONSULTING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/apac-ai-lead-engineer-ks-consulting-af14efb98a3785984b341cc4fdbb8281",
+      "posted": "2026-10-28",
+      "salary": "S$20,000 to S$22,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-0dcd5eeef10a903602850d51c359c733",
+      "title": "Senior AI Engineer",
+      "company": "BASE CAMP DIGITAL PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ai-engineer-base-camp-digital-0dcd5eeef10a903602850d51c359c733",
+      "posted": "2026-10-28",
+      "salary": "S$10,000 to S$14,500 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-ee2a9d2c2aae215ca361ff55db4fb87a",
+      "title": "Part-Time AI Trainer",
+      "company": "CHASEWELLS MANAGEMENT COLLEGE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/education-training/part-time-ai-trainer-chasewells-management-college-ee2a9d2c2aae215ca361ff55db4fb87a",
+      "posted": "2026-10-28",
+      "salary": "S$1,200 to S$2,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-141116601affd083ca6d4a391baeb0e1",
+      "title": "Digital Transformation Manager - 1 year contract - Up to S$8k",
+      "company": "TALENT EDGE RECRUITMENT LLP",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/digital-transformation-manager-1-year-contract-s8k-talent-edge-recruitment-141116601affd083ca6d4a391baeb0e1",
+      "posted": "2026-10-28",
+      "salary": "S$7,000 to S$8,000 a month",
+      "track": "Innovation",
+      "level": "Mid",
+      "why": "title has \"Digital Transformation\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-04f0aecc409f6445b1462e1b9a284fee",
+      "title": "Innovation Sr Asst Manager / Asst Manager, Centre for Innovation in Healthcare(10714)",
+      "company": "NATIONAL UNIVERSITY HEALTH SYSTEM PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/healthcare/innovation-sr-asst-manager-asst-manager-centre-innovation-healthcare-national-university-health-system-04f0aecc409f6445b1462e1b9a284fee",
+      "posted": "2026-10-28",
+      "salary": "S$4,560 to S$7,660 a month",
+      "track": "Innovation",
+      "level": "Senior",
+      "why": "title has \"Innovation\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
+    {
+      "id": "mcf-67b2afd4c6167ff369d342463fa25ed2",
+      "title": "Food Innovation Development Intern",
+      "company": "KENTUCKY FRIED CHICKEN MANAGEMENT PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/food-and-beverage/food-innovation-development-intern-kentucky-fried-chicken-management-67b2afd4c6167ff369d342463fa25ed2",
+      "posted": "2026-10-28",
+      "salary": "S$800 to S$1,200 a month",
+      "track": "Innovation",
+      "level": "Entry",
+      "why": "title has \"Innovation\"",
+      "first_seen": "2026-10-29T06:09:45+08:00",
+      "last_seen": "2026-10-29T06:09:45+08:00"
+    },
     {
       "id": "mcf-b289a8a20a32bcc9cdc93e20a23307b0",
       "title": "Account Manager (AI/Cloud/Data Center)",
@@ -71,7 +446,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-05f77b423401cfe0770cc8a5a6eb45bd",
@@ -176,7 +551,7 @@
       "level": "Not stated",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-f0756bf0e033a0bda962499918848818",
@@ -236,7 +611,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-b58a1d6a65d612880b7a437ca823cc18",
@@ -251,7 +626,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-7102181ef37c509fa609cea0cd6de9d3",
@@ -266,7 +641,7 @@
       "level": "Not stated",
       "why": "title has \"DATA SCIENTIST\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-3959f47acb62b3c795325c8ee577a2d3",
@@ -281,7 +656,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-2cbf9bd9f35c6955f2d721bcd8b1d7ec",
@@ -296,7 +671,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-33e54b262321856cf1315322f5cb2e0c",
@@ -311,7 +686,7 @@
       "level": "Senior",
       "why": "title has \"ML\" and \"AI\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-f55065d57c6e72f1d6acb66db8fd3279",
@@ -416,7 +791,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "mcf-510f6dba5f44af967deb3a914a1d9723",
@@ -2651,7 +3026,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:10:34+08:00",
-      "last_seen": "2026-10-28T06:09:59+08:00"
+      "last_seen": "2026-10-29T06:09:45+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
