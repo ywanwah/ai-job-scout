@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-07T06:08:35+08:00",
+    "updated_at": "2026-11-08T06:08:11+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-26df612adb54a1b8e948dbd5eaa57bf0",
+      "title": "AI Feature/Computing/Storage Engineer Graduate (TikTok Recommendation Ecosystem Architecture) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-featurecomputingstorage-engineer-graduate-2027-start-tiktok-26df612adb54a1b8e948dbd5eaa57bf0",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-4c6c3a68803026bf5ac7ff884c4714d2",
+      "title": "AI Infrastructure Engineer Graduate (TikTok Live Recommendation Architecture) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-infrastructure-engineer-graduate-2027-start-tiktok-4c6c3a68803026bf5ac7ff884c4714d2",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-bad88d3ac19f83c9d6bb446c29894b88",
+      "title": "AI Infra Optimization Engineer Graduate (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-infra-optimization-engineer-graduate-2027-start-tiktok-bad88d3ac19f83c9d6bb446c29894b88",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-1738659377bfd56944cbcdbc4b7217db",
+      "title": "AI Infrastructure Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-infrastructure-engineer-graduate-2027-start-tiktok-1738659377bfd56944cbcdbc4b7217db",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-c3044837b786b7c139e209a9356b9421",
+      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-engineer-large-model-applications-global-frontier-tech-recruitment-program-2027-start-tiktok-c3044837b786b7c139e209a9356b9421",
+      "posted": "2026-11-08",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-7d3c1e6b2c7669822fe5a8fa3e749379",
+      "title": "Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-engineer-large-model-applications-global-frontier-tech-recruitment-program-2027-start-tiktok-7d3c1e6b2c7669822fe5a8fa3e749379",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$11,250 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-ac855cf886c535ab315ecd66d58a359e",
+      "title": "Research Scientist (TikTok Search) - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-scientist-end-to-end-generative-search-technology-based-pre-trained-foundation-models-global-frontier-tech-recruitment-program-2027-start-tiktok-ac855cf886c535ab315ecd66d58a359e",
+      "posted": "2026-11-08",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Generative\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-fb636538cefec39a7bb0fb41b1d513b2",
+      "title": "Research Scientist (TikTok Search) - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-scientist-end-to-end-generative-search-technology-based-pre-trained-foundation-models-global-frontier-tech-recruitment-program-2027-start-tiktok-fb636538cefec39a7bb0fb41b1d513b2",
+      "posted": "2026-11-08",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Generative\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
+    {
+      "id": "mcf-7332b55891193a27eedb57a8ce38f833",
+      "title": "AI Engineering",
+      "company": "STRAITDEER PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineering-straitdeer-7332b55891193a27eedb57a8ce38f833",
+      "posted": "2026-11-07",
+      "salary": "S$6,500 to S$9,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-08T06:08:11+08:00",
+      "last_seen": "2026-11-08T06:08:11+08:00"
+    },
     {
       "id": "mcf-efbb3b5e349cd412abee692e06af15ce",
       "title": "Research Engineer II  (Artificial Intelligence, Computer Science, Data Science)",
@@ -26,7 +161,7 @@
       "level": "Not stated",
       "why": "title has \"Artificial Intelligence\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-ac7200dc2c602c3f3f02ae904285eff9",
@@ -41,7 +176,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-f1ccbf4df1c3b9bd61d07fc60bce3a6f",
@@ -56,7 +191,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-d6f831e4d275a8316e53b7f873c6de3b",
@@ -71,7 +206,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-2694fd5b5ed0bb74bb71ad5cc0d3024c",
@@ -101,7 +236,7 @@
       "level": "Not stated",
       "why": "title has \"Machine Learning\" and \"ML\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-10fdcfe9b141600368518fc69ef37b14",
@@ -116,7 +251,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-160e5e5f95d88862a902e5c4c75d8bf8",
@@ -131,7 +266,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-6d490b79bc31bcaa11e10d1ebde99e4f",
@@ -146,7 +281,7 @@
       "level": "Not stated",
       "why": "title has \"GenAI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-1dea62151cf3b60955621bcb4247968f",
@@ -161,7 +296,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-48d2d5464ba9a274a7839deb77dc088b",
@@ -176,7 +311,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-8335ab5abe964412e71b02dee06a6a18",
@@ -191,7 +326,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-49380c6599251111ec7942276a96bdeb",
@@ -206,7 +341,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-6b17ee10851cdc5f75a7741bb692e4db",
@@ -221,7 +356,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-17f23506400fd98799c2571480896acc",
@@ -236,7 +371,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-62d6459e8b4e0a8122dfb0a986209274",
@@ -251,7 +386,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-89d5557efbea493bc2a2a5e3d3997fd6",
@@ -266,7 +401,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-8ba8bfba2553c3873d0a9af9bc6b6298",
@@ -281,7 +416,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-62fecd2393681cfbd3df29d91cd569f5",
@@ -296,7 +431,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-e9a360ba45afedc2d147df793240091b",
@@ -311,7 +446,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-79f17c9a92e09a000862c4e38dd2c83b",
@@ -326,7 +461,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-2f4f8d35fff4a9ef9c1351d6ff605144",
@@ -341,7 +476,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-cf29b620024ea4dde89f4df43746958b",
@@ -356,7 +491,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-20cbff7b8ca2a20a728971b7dfa647bd",
@@ -371,7 +506,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-4e83beb8e492d6a7018ad193768d4ba0",
@@ -386,7 +521,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-da034882283eb4674a644839827d4164",
@@ -401,7 +536,7 @@
       "level": "Senior",
       "why": "title has \"Digital Transformation\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-42a36ada403ebd62bc219c66b3430d87",
@@ -416,7 +551,7 @@
       "level": "Senior",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-e0a494d5bbf8cfc0fcc004ff4ac9767a",
@@ -431,7 +566,7 @@
       "level": "Senior",
       "why": "title has \"INNOVATION\"",
       "first_seen": "2026-11-07T06:08:35+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-152e5905502175c595480698ae826bf0",
@@ -476,7 +611,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-06T06:08:05+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-d433db07a0ea8d5feb00a50e9e875431",
@@ -761,7 +896,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-06T06:08:05+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-33107325135dd8b10b8f5c4e52178bcb",
@@ -926,7 +1061,7 @@
       "level": "Not stated",
       "why": "title has \"GenAI\" and \"LLM\" and \"AI\"",
       "first_seen": "2026-11-06T06:08:05+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-00c3f7690a2bb5e0f810ceaf27163547",
@@ -941,7 +1076,7 @@
       "level": "Not stated",
       "why": "title has \"GenAI\" and \"AI\" and \"LLM\"",
       "first_seen": "2026-11-06T06:08:05+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-f9024ae2de0373a747f8c85bde38a4a5",
@@ -1526,7 +1661,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:08:45+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "gh-anthropic-5424312008",
@@ -1541,7 +1676,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:08:45+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-b5578b8214c352673cb0e4e7c815eb9f",
@@ -4451,7 +4586,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-510f6dba5f44af967deb3a914a1d9723",
@@ -6176,7 +6311,7 @@
       "level": "Entry",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-21T15:10:34+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "mcf-9b5cb6b4e0d4a42e58f9bccf515a59f0",
@@ -6686,7 +6821,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:10:34+08:00",
-      "last_seen": "2026-11-07T06:08:35+08:00"
+      "last_seen": "2026-11-08T06:08:11+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
