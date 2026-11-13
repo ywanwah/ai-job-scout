@@ -1199,6 +1199,56 @@
       "kept": 567,
       "emailed": false,
       "note": "All sources answered. No LinkedIn alert file this run. Email saved as a draft (sending was not allowed)."
+    },
+    {
+      "run_at": "2026-11-14T06:10:22+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 40
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 35
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 57
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 5
+        }
+      ],
+      "found": 36,
+      "new": 20,
+      "kept": 587,
+      "emailed": false,
+      "note": "All sources answered. No LinkedIn alert file this run. Email saved as a draft (sending was not allowed)."
     }
   ]
 }
