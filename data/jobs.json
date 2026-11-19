@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-19T06:08:38+08:00",
+    "updated_at": "2026-11-20T06:09:03+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,396 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-5c1971ffcf5d27fd33532fbfdcbd2dae",
+      "title": "Associate AI Engineer",
+      "company": "ZURICH INSURANCE COMPANY LTD (SINGAPORE BRANCH)",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/insurance/associate-ai-engineer-zurich-insurance-company-5c1971ffcf5d27fd33532fbfdcbd2dae",
+      "posted": "2026-11-19",
+      "salary": "S$4,500 to S$6,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-080c8fdeb48a377e5778c6691795d965",
+      "title": "Lead AI Engineer (12 months contract) - SP",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/lead-ai-engineer-sp-persol-singapore-080c8fdeb48a377e5778c6691795d965",
+      "posted": "2026-11-19",
+      "salary": "S$12,000 to S$18,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-e1c3aa715c62d4d5fe00bc06d0f24b89",
+      "title": "Senior GenAI Application Engineer – LangGraph, RAG, Python - Agency Contract (PV)",
+      "company": "PERSOL SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-genai-application-engineer-%E2%80%93-langgraph-rag-python-agency-contract-persol-singapore-e1c3aa715c62d4d5fe00bc06d0f24b89",
+      "posted": "2026-11-19",
+      "salary": "S$9,000 to S$13,500 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-cdd03f623018aa9a094b2d95bbeafd94",
+      "title": "AI Engineering Intern (10–12 Months)",
+      "company": "BIOQUEST ADVISORY PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/ai-engineering-intern-bioquest-advisory-cdd03f623018aa9a094b2d95bbeafd94",
+      "posted": "2026-11-19",
+      "salary": "S$1,230 to S$1,430 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-d4bc82ac0834d930bcf80474b6af4804",
+      "title": "AI/ML Engineer",
+      "company": "RED HAT ASIA PACIFIC PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/aiml-engineer-red-hat-asia-pacific-d4bc82ac0834d930bcf80474b6af4804",
+      "posted": "2026-11-19",
+      "salary": "S$9,000 to S$15,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"ML\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-4201b500b975f1ecc866c78c3e17f729",
+      "title": "Senior AI/ML Engineer",
+      "company": "RED HAT ASIA PACIFIC PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-aiml-engineer-red-hat-asia-pacific-4201b500b975f1ecc866c78c3e17f729",
+      "posted": "2026-11-19",
+      "salary": "S$10,000 to S$17,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\" and \"ML\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-1f349dda10de1a053979a72b6767096b",
+      "title": "AI Prompt & Training Specialist",
+      "company": "ABSOLUTE KINETICS CONSULTANCY PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-prompt-training-specialist-absolute-kinetics-consultancy-1f349dda10de1a053979a72b6767096b",
+      "posted": "2026-11-19",
+      "salary": "S$2,800 to S$3,800 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"Prompt\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-35116a417bfa5b2666f68974371bdf7e",
+      "title": "AI Solutions Engineer",
+      "company": "ABSOLUTE KINETICS CONSULTANCY PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-solutions-engineer-absolute-kinetics-consultancy-35116a417bfa5b2666f68974371bdf7e",
+      "posted": "2026-11-19",
+      "salary": "S$2,800 to S$3,800 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-aa5f20b43d47b8e4168111827f37f822",
+      "title": "Data Scientist (Machine Learning)",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-scientist-flintex-consulting-aa5f20b43d47b8e4168111827f37f822",
+      "posted": "2026-11-19",
+      "salary": "S$6,000 to S$8,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\" and \"Machine Learning\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-3dc186ea429d76e63d2897b19547a8b2",
+      "title": "Machine Learning Expert, Risk Control - Global E-Commerce",
+      "company": "BYTEDANCE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-expert-risk-control-global-e-commerce-bytedance-3dc186ea429d76e63d2897b19547a8b2",
+      "posted": "2026-11-19",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-39776a34524d68f5c62182ccc53e6f59",
+      "title": "Machine Learning Engineer (Speech/Audio) - Singapore",
+      "company": "PLAUD PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/machine-learning-engineer-singapore-plaud-39776a34524d68f5c62182ccc53e6f59",
+      "posted": "2026-11-19",
+      "salary": "S$8,000 to S$16,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-7dd0df7dc7f512be104ec65d6e80f208",
+      "title": "Senior Machine Learning Engineer - Joule Platform Services, SAP Labs Singapore",
+      "company": "SAP ASIA PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-machine-learning-engineer-joule-platform-services-sap-labs-singapore-sap-asia-7dd0df7dc7f512be104ec65d6e80f208",
+      "posted": "2026-11-19",
+      "salary": "S$8,000 to S$14,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-89ebd4c726f4739d3fb1448db63618f3",
+      "title": "Robotics Engineer: AI Specialist",
+      "company": "GENERAL ROBOTICS TECHNOLOGY PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/robotics-engineer-ai-specialist-general-robotics-technology-89ebd4c726f4739d3fb1448db63618f3",
+      "posted": "2026-11-19",
+      "salary": "S$6,800 to S$13,600 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-0e7af591b98ae052ad256cc4cd4389f0",
+      "title": "AI Engineer Graduate (LLM/Multimodal - TikTok Search, Singapore) - 2027 Start (PhD)",
+      "company": "BYTEDANCE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-graduate-2027-start-bytedance-0e7af591b98ae052ad256cc4cd4389f0",
+      "posted": "2026-11-19",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\" and \"LLM\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-310db9be1a8c03be0814bddf051d72ad",
+      "title": "AI Engineer Graduate (LLM/Multimodal - TikTok Search) - 2027 Start (PhD)",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-graduate-2027-start-tiktok-310db9be1a8c03be0814bddf051d72ad",
+      "posted": "2026-11-19",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\" and \"LLM\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-fe26ccbe4d1ed3374a056cde3b7b89c6",
+      "title": "Manager, AI Engineering",
+      "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/manager-ai-engineering-ambition-group-singapore-fe26ccbe4d1ed3374a056cde3b7b89c6",
+      "posted": "2026-11-19",
+      "salary": "S$8,500 to S$9,500 a month",
+      "track": "AI",
+      "level": "Mid",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-bb0c155b8355a8822121bf57fbfcbf13",
+      "title": "AI Specialist",
+      "company": "FLINTEX CONSULTING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-specialist-flintex-consulting-bb0c155b8355a8822121bf57fbfcbf13",
+      "posted": "2026-11-19",
+      "salary": "S$6,000 to S$8,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-dec614e966ff14432a2e73d785fb4ed7",
+      "title": "Embodied AI / Robotics Intern",
+      "company": "PRISM AI STUDIO PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/embodied-ai-robotics-intern-prism-ai-studio-dec614e966ff14432a2e73d785fb4ed7",
+      "posted": "2026-11-19",
+      "salary": "S$800 to S$1,200 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-c16f144dd7567bd650b01dfb2abca3b5",
+      "title": "AI Engineer (GenAI / LLM / RAG / Python)",
+      "company": "THE EDGE CONTRACTING SERVICES PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-edge-contracting-services-c16f144dd7567bd650b01dfb2abca3b5",
+      "posted": "2026-11-19",
+      "salary": "S$8,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"GenAI\" and \"LLM\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-a38dc5a8e960fd76957ebe67802d44d0",
+      "title": "Senior Principal AI-GTM | Google Cloud",
+      "company": "SEARCE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/consulting/senior-principal-ai-gtm-google-cloud-searce-a38dc5a8e960fd76957ebe67802d44d0",
+      "posted": "2026-11-19",
+      "salary": "S$12,000 to S$18,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-3f3a811ef03de644758c180bd136800d",
+      "title": "Applied AI & Enterprise Systems",
+      "company": "ELLIOTT MOSS CONSULTING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/applied-ai-enterprise-systems-elliott-moss-consulting-3f3a811ef03de644758c180bd136800d",
+      "posted": "2026-11-19",
+      "salary": "S$8,500 to S$9,800 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-a649f356db17b85ea833bd6b8a35745c",
+      "title": "Digital and AI Marketing Manager",
+      "company": "NEURA LAB PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/marketing/digital-ai-marketing-manager-neura-lab-a649f356db17b85ea833bd6b8a35745c",
+      "posted": "2026-11-19",
+      "salary": "S$3,800 to S$4,500 a month",
+      "track": "AI",
+      "level": "Mid",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-17a87dfd6a4388793c7346cc38875971",
+      "title": "AI Video Specialist",
+      "company": "METAVIVA PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/design/ai-video-specialist-metaviva-17a87dfd6a4388793c7346cc38875971",
+      "posted": "2026-11-19",
+      "salary": "S$2,600 to S$4,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-c8447db42ce5e0f76ed6f73916c22bf0",
+      "title": "AI Software Developer",
+      "company": "TALENTSIS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-software-developer-talentsis-c8447db42ce5e0f76ed6f73916c22bf0",
+      "posted": "2026-11-19",
+      "salary": "S$5,000 to S$6,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-1d6b419ac401a2329f330b37eb528a57",
+      "title": "Technical Program Manager, Analytics & GenAI",
+      "company": "AMAZON ASIA-PACIFIC RESOURCES PRIVATE LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/technical-program-manager-analytics-genai-amazon-asia-pacific-resources-1d6b419ac401a2329f330b37eb528a57",
+      "posted": "2026-11-19",
+      "salary": "S$8,000 to S$14,000 a month",
+      "track": "AI",
+      "level": "Mid",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
+    {
+      "id": "mcf-9295200994e8bb109150b9c0aeef191b",
+      "title": "Application Technologist (Bakery Ingredients, Snack Innovation, Customer Trials) #HDC1",
+      "company": "RECRUIT EXPRESS PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/application-technologist-hdc1-recruit-express-9295200994e8bb109150b9c0aeef191b",
+      "posted": "2026-11-19",
+      "salary": "S$3,500 to S$7,000 a month",
+      "track": "Innovation",
+      "level": "Not stated",
+      "why": "title has \"Innovation\"",
+      "first_seen": "2026-11-20T06:09:03+08:00",
+      "last_seen": "2026-11-20T06:09:03+08:00"
+    },
     {
       "id": "mcf-cf0f908f02d29d858f40615b1173ae05",
       "title": "Enterprise Sales Director – AI Solutions (Singapore)",
@@ -56,7 +446,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-0b59b4ee1190361f5c4977bbda903392",
@@ -251,7 +641,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-b0d3128c88c30d1ddce71883d2a869cc",
@@ -371,7 +761,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-56db5168c548e8fff0ce5e4af3d0cb9a",
@@ -386,7 +776,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-12bc73a113de21f54f59757f55d02709",
@@ -401,7 +791,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-3e83e60c14cfe3bc21c1b5cf040d7cfe",
@@ -416,7 +806,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-d6d8d170cc2710a29a8f32356a78e50a",
@@ -431,7 +821,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-8c9c215c367f56f86637a06dd799dd4b",
@@ -446,7 +836,7 @@
       "level": "Not stated",
       "why": "title has \"Emerging Tech\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-f675ad5454b382b16d007b8eecfe073d",
@@ -461,7 +851,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-19T06:08:38+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-f7052d93d83ae4421ac3ff265c056bcb",
@@ -5306,7 +5696,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:08:45+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "gh-anthropic-5424312008",
@@ -5321,7 +5711,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:08:45+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-b5578b8214c352673cb0e4e7c815eb9f",
@@ -8231,7 +8621,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:09:59+08:00",
-      "last_seen": "2026-11-19T06:08:38+08:00"
+      "last_seen": "2026-11-20T06:09:03+08:00"
     },
     {
       "id": "mcf-510f6dba5f44af967deb3a914a1d9723",
